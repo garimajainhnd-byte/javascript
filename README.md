@@ -3,8 +3,6 @@
 Made By - Garima Jain
 PROJECT Title - Currency Counter
 
-💱 CURRENCY COUNTER
-
 # Project Description
 This project focuses on building a simple Currency Converter Web Application that allows users to convert one currency into another in real time.
 
